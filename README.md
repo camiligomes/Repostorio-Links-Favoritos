@@ -1,8 +1,12 @@
 # myfavrepositoryss
 é o seguinte: sou leiga no termo Github e nisso vou colocar aqui meus repositores preferidos aqui :) perdão algum erro da minha parte 
 
- 1. arthurspk 
+ 1. arthurspk; guia para um programador
  https://github.com/arthurspk/guiadevbrasil
- 2. Universidade Livre
+ 
+ 2.1 Universidade Livre; ajuda extrema no ensino sobre variados assuntos tanto como programacão 
  https://github.com/Universidade-Livre/ciencia-da-computacao
+ 
+ 2.2 Universidade Livre; estudo sobre matematica
+ https://github.com/Universidade-Livre/matematica
 
