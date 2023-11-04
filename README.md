@@ -1,3 +1,6 @@
-# myfavrepositoryss
-é o seguinte: sou leiga no termo Github e nisso vou colocar aqui meus repositores preferidos aqui :) perdão algum erro da minha parte 
+# Meu primeiro repositório!
+------------------------------
+Hello world! 
+neste repositório, vou tentar me manter num ritmo de optar por guardar ferramentas, links, repositórios que eu curti muito na minha jornada de aprendizado.
+segue o codigo..!
 
